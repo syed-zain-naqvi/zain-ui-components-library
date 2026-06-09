@@ -155,14 +155,14 @@ const DashboardPage = () => {
               <div>
                 <div className="flex justify-between mb-2">
                   <span className={isDark ? 'text-slate-300' : 'text-slate-700'}>Tables & Data</span>
-                  <span className={isDark ? 'text-slate-400' : 'text-slate-600'}>Coming Soon</span>
+                  <Badge variant="success" size="sm" label="Ready" />
                 </div>
                 <Progress value={0} />
               </div>
               <div>
                 <div className="flex justify-between mb-2">
                   <span className={isDark ? 'text-slate-300' : 'text-slate-700'}>Navigation & Menus</span>
-                  <span className={isDark ? 'text-slate-400' : 'text-slate-600'}>Coming Soon</span>
+                  <Badge variant="success" size="sm" label="Ready" />
                 </div>
                 <Progress value={0} />
               </div>

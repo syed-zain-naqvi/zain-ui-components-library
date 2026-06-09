@@ -83,7 +83,7 @@ export default function Home() {
             >
               Get Started
             </Button>
-            <a href="https://github.com/syed-zain-naqvi" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/syed-zain-naqvi/zain-ui-components-library" target="_blank" rel="noopener noreferrer">
               <Button size="lg" variant="outline" colorScheme="primary">
                 GitHub
               </Button>
